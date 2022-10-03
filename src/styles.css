@@ -1,0 +1,53 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  #hi {
+    display: flex;
+    color: black;
+    font-weight: bolder;
+    flex-direction: column;
+    display: block;
+    box-shadow: 5px 2px 2px greenyellow, -5px -2px 2px greenyellow,
+      10px 4px 4px red, -10px -4px 4px red;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding: 10px;
+  }
+  #image {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin: 0px 20px;
+  }
+  #heading {
+    font-size: 50px;
+    margin: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: transparent;
+    text-shadow: 8px 8px 1px green, 13px 12px 2px red;
+    padding-left: 10px;
+  }
+  h2 {
+    color: red;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  li {
+    font-size: 15px;
+    color: black;
+  }
+  h4 {
+    font-size: 25px;
+  }
+  #heading p {
+    font-size: 13px;
+    text-shadow: none;
+    color: black;
+  }
+  h2 p {
+    font-size: 13px;
+    color: black;
+  }
+  
